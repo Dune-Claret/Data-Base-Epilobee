@@ -9,6 +9,8 @@ Files :
 
 - data_explanations.pdf : official presentation of Epilobee program and dataset.
 
+- modeleEA.mcd : EA model.
+
 - requete.ipynb : used to format data and generate SQL queries to feed the tables thanks to the dataframe.
 
 - requeteBDD100.sql / requeteBDD1000.sql / requeteBDD1500.sql : queries requests (on 100 / 1000 / 1500 rows of the epilobee.csv).
