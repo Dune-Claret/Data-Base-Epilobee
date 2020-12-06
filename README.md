@@ -15,6 +15,8 @@ Files :
 
 - ProjetBDDr_groupe2_EPILOBEE.ipynb : introduction of the dataset and analyses of the SQL queries.
 
+- report.pdf : introduction and analyses (french version).
+
 - IGI-3014-CLARET.sql : the database and tables were created directly on the phpMyAdmin website using the available tools, then the SQL code of creation was retrieved and save as .sql.
 
 - resultats : folder containing an excel file for each table, formatted to feed the database.
